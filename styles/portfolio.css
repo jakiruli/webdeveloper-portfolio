@@ -1,0 +1,50 @@
+
+body{
+    
+        font-family: "Nunito", sans-serif;
+        font-optical-sizing: auto;
+        
+
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-title{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 45px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.text-primary{
+    color: orange;
+}
+nav > ul{
+    display: flex;
+    
+    align-items: center;
+
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav a {
+    text-decoration: none;
+    color: chocolate;
+}
+.button-primary{
+    border-radius: 5px;
+    background-color: orangered;
+    border: 0px;
+    font-size: 20px;
+    color: wheat;
+    font-weight: 700;
+    padding: 15 px 35px;
+
+
+}
