@@ -55,8 +55,8 @@ nav a {
 }
 
 .header {
-    background-color: cornsilk;
-    background-image: url(../images/header_bg.png);
+    background-color: #fff8ff;
+    background-image: url(../images/header_bg.png) ,url(../images/developer.png);
     background-repeat: no-repeat;
     background-position: bottom right;
 }
